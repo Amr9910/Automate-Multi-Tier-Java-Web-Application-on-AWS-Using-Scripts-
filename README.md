@@ -98,7 +98,10 @@ http://3.250.22.166:8080/login
 
 <img width="987" height="562" alt="image" src="https://github.com/user-attachments/assets/513e0f67-5f88-42ad-8678-db6038731b7d" />
 
+# what learn from this project?
 
 
+
+![thx4w-8 (1)](https://github.com/user-attachments/assets/469311fb-d559-44c1-a2a3-3563a7f7dfca)
 
 
