@@ -100,6 +100,11 @@ http://3.250.22.166:8080/login
 
 # what learn from this project?
 
+From this project, I learned how to design and deploy a multi-tier Java web application on AWS using EC2 instances. I gained hands-on experience with Linux administration, installing and configuring services like Tomcat, MySQL, Nginx, RabbitMQ, and Memcached, as well as managing security groups, firewalls, and service connectivity.
+
+# what problem faced me and how solve this?
+
+During the project, I faced several challenges such as security group misconfigurations that blocked access to the application, Tomcat not responding on the public IP, firewall settings causing inactive ports, and package compatibility between CentOS and Ubuntu. I solved these problems by properly configuring inbound rules in AWS, opening required ports in the VM firewall, checking Tomcat logs and service status, and adapting installation scripts for Ubuntu.
 
 
 ![thx4w-8 (1)](https://github.com/user-attachments/assets/469311fb-d559-44c1-a2a3-3563a7f7dfca)
